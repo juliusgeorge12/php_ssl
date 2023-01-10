@@ -1,0 +1,19 @@
+{
+    "name": "george/php_ssl",
+    "description": "This is a php tls library for establishing a secure socket connection",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "George\\PhpSsl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "julius george",
+            "email": "julius.business12@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
